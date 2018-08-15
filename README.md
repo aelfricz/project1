@@ -1,2 +1,2 @@
-# This is a folder for mini Python Projects
-# 
+## This is a folder for mini Python Projects
+##
