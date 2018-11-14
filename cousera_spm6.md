@@ -53,7 +53,6 @@ When I am reading through a story,
 Then I should be able to see a side menu with font-size options (Small, Medium, Large)
 When I choose one of the font-size options
 Then the font-size should adjust accordingly.
-
 Acceptance criteria (2):
 Given that I want to be able to adjust the font size to make it easier to read.
 When I adjust the font-size
@@ -69,26 +68,47 @@ Check for the same.
 (32) As a reader, I want to be able to connect with a remote user, so that I know if I have access to someone with whom I can read
 Acceptance criteria (1):
 Given that I want to be able to connect with a remote user
-When I click on the 'read together' button on the main menu.
-Then I have switched on the read together mode.
-And the system will check for other online users whom have also switched on the mode.
-And match me together with one of them.
-
+When I click on the 'connect' button on the main menu.
+Then the system will check for other online users whom have also clicked on the 'connect' button.
+And match me with one of them.
 Acceptance criteria (2):
-Given that user have entered the 'read together' mode.
-While matching is taking place, I should see a hourglass sign at the side.
-And I can continue to read by myself.
-When the matched is successful.
-Then I should recieved a success notifcation informing me of the user whom I'm matched to.
-
+Given that I have clicked the 'connect' button and is waiting for a match.
+Then I should see a hourglass sign at the side.
+And in the meanwhile, I can continue to read by myself.
 Acceptance criteria (3):
-Given that I have been matched to another user successfully.
-Then I can see a 'read together' status on the top of the window.
-And I can see a status showing what the other user is doing (example which book and page he or she is reading).
-
+Given that I have clicked the 'connect' button and there is no suitable users online.
+Then the hourglass sign should continue to stay.
+And the system should continue to check if a suitable user comes online.
 Acceptance criteria (4):
-Given that I have been matched to another user successfully.
-Then I can see a 'read together' status on the top of the window.
-And I can see a status showing what the other user is doing (example which book and page he or she is reading).
+Given that I have clicked the 'connect' button and the matched is successful.
+Then I should recieved a success notifcation informing me of the user whom I'm matched to.
+And I can see a 'connected' status on the top of the window.
+And I can see a status showing whether the other user is reading a book
+And if the other user is reading a book, it should indicate the title and the page that the other user is reading.
+
+Acceptance test:
+Get 2 test users with 2 devices.
+User 1 clicks on the 'Connect' button
+Check for hour glass sign and if user is still possible to read.
+User 2 clicks on the 'Connnect' button
+Check on both screens for the success notifcations.
+User 1 opens and reads a book, in meanwhile user 2 should check if the status of user 1 is reflected correctly.
+Then, user 2 show opens and reads a book, in meanwhile user 1 should check if the status of user 2 is reflected correctly.
 
 (33) As a reader, I want to read with a connected reader using audio, so that we can read together
+Acceptance criteria (1):
+Given that I want to read together with a connected reader.
+When I am connected with another user.
+Then device starts transmiting my voice to the other user in real time.
+And starts transmiting the other user's voice to me in real time.
+Acceptance criteria (2):
+Given that I am connected with another user
+When both of us are reading
+Then we should be able to hear each other in real time loud and clear.
+
+Acceptance test:
+Get 2 users and connect them together
+Let the users speak briefly to each other
+Let each user open a sample book on their individual.
+Let the 2 users read the content together.
+Check on the loudness, clarity, and if there are any communication delays.
