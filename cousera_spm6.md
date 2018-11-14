@@ -102,8 +102,8 @@ When I am connected with another user.
 Then device starts transmiting my voice to the other user in real time.
 And starts transmiting the other user's voice to me in real time.
 Acceptance criteria (2):
-Given that I am connected with another user
-When both of us are reading
+Given that I want to read together with a connected reader.
+When both of us are reading out.
 Then we should be able to hear each other in real time loud and clear.
 
 Acceptance test:
