@@ -1,53 +1,94 @@
-Cousera Software Product Management Capstone Assignment
+Cousera Software Product Management Capstone:
 
-format: As a ___, I want ___, so that ___
+(27) As a reader, I want the application to work in both portrait and landscape orientation, so that I can choose the way I view material
+Acceptance criteria (1):
+Given that I want the application to work in protrait mode
+When the device is in protrait orientation
+Then the content (including layout, text, pictures and navigation mentus) should be displayed in protrait optimized format.
+Acceptance criteria (2):
+Given that I want the application to work in landscape mode
+When the device is in landscape orientation
+Then the content (including layout, text, pictures and navigation mentus) should be displayed in landscape optimized format.
+Acceptance criteria (3):
+Given that I want the application to work in both landscape and protrait mode
+When I rotate the device
+Then the content should be displayed in the appropriate mode.
 
-Accounts
-As a user, I want to have be able to login, so that I can access my account history and settings.\
-As a user, I want to be able to reset password, so that I can access my account if I forgot my password.\
-As a user, I want to have an account history, so that I can track my activity history.\
-As a user, I want to have an account history that track the books I have read, so that keep track of my reading.\
-As a user, I want to have an account history that track my comprehension score, so that keep track of my improvement over time.\
+Acceptance test:
+Prepare a set of sample pages (including main menu, browse, search, comphrension test, sample content) for testing.
+Rotate the device to protrait orientation.
+Go through all the pages and check if they are displayed correctly.
+During each page rotatate to landscape and rotate back and check if content is displayed appropriately.
 
-Dictionary
-As a 7-12 year old child, I want to check words via a children's dictionary, so that I can clarify words that I don't know.\
-As a 7-12 year old child, I want to the definition of word to pop up when selected, so that I don't know open a dictionary seperately.\
 
-UI
-As a 7-12 year old child, I want to be able to adjust the font size, so that I can the lines of text more easily.\
-As a 7-12 year old child, I want to see off-white background, so that it is better for my eyes and my sleep.\
-As a 7-12 year old child, I want to see high contrast, so that I can keep my attention.\
-As a 7-12 year old child, I want the application to book like a book, so that I feel familiar with it.\
-As a 7-12 year old child, I want to read the application in both protrait and landscaope mode, so that I can switch around when needed.\
-As a 7-12 year old child, I want to the page to be animated like real pages, so that it feel familiar when flipping the pages.\
+(28) As a reader, I want any pictures associated with the content to appear with the text, so that they can supplement the reading material
+Acceptance criteria (1):
+Given that I want to see the pictures that are associated with the content.
+When I am reading through a story.
+Then I want to see the pictures that all the pictures of this story (not pictures of another story).
+And they should should be on the correct pages.
+Acceptance criteria (2):
+Given that I want to see the pictures that are associated with the content.
+When I am reading through a story.
+Then I want to see the pictures at on the correct pages
+So thatr they reflext the content of the text on the page.
+Acceptance criteria (3):
+Given that I want to see the pictures to supplment the reading material.
+When I am reading through a story.
+Then I want to see the pictures at the correct size (not too big or too smnall)
+And the text should be wrapped correctly to give the space of the picture.
 
-Book List
-As a 7-12 year old child, I want to be able to browse the titles of all the books offline, so that I can search for books without internet connection.\
-As a 7-12 year old child, I want to be able to browse the titles of all the books offline, so that I can search for books without internet connection.\
-As a 7-12 year old child, I want to be able to like books, so that I can read them offline wihout connection.\
-As a 7-12 year old child, I want my list of liked books to be divded into read or unread books, so that I know what are my to-read list.\
-As a 7-12 year old child, I want to be able to unlike books, so that I can remove the locally stored books from the device.\
-As a 7-12 year old child, I want search for books, so that I can find books that I want to read.\
-As a 7-12 year old child, I want browse the books that I have read, so that I can keep track of my reading.\
-As a 7-12 year old child, I want to rate the books that I have read, so that the system can recommend similar books.\
-As a 7-12 year old child, I want to see the rating that I have given to the books,so that I can keep track of my ratings.\
-As a 7-12 year old child, I want to see book suggestions, so that I can read more of books that are similar to what I like to read and suitable for me based on my comprehension level.\
-As a 7-12 year old child, I want to save the list of books that I would like to read in future, so that I can read them when I have time.\
+Acceptance test:
+Prepare 2 sample book with text and pictures for testing.
+Read one of the books.
+Check that the pictures and text are displayed appropriately according to acceptance criteria.
+Read the other book.
+Check for the same.
 
-Comprehension
-As a 7-12 year old child, I want to take comprehension test in multiple choices format, so that I can test my comprehension level.\
-As a 7-12 year old child, I want to take comprehension test using voice recognition, so that I can test my comprehension level.\
-As a 7-12 year old child, I want to take recieve suggestions from the comprehension test, so that I can improve accordingly.\
-As a 7-12 year old child, I want to take comprehension tests preiodically (about 1 month), so that I can track my improvement.\
 
-Friends
-As a 7-12 year old child, I want to read together with other kids, so that we tackle it together like a multiplayer game\
-As a 7-12 year old child, I want to read together with other kids who are of similar linguistic level, so that we are comfortable with each other's pace.\
-As a 7-12 year old child, I want to be able to see a list of friends, so that we can connect to them more easily.\
-As a 7-12 year old child, I want to be able to add new people to the friend list, so that I can read together someone familiar or someone whom I have been matched with previously.\
+(29) As a reader, I want to be able to adjust font size, so that it is easier to read.
+Acceptance criteria (1):
+Given that I want to be able to adjust the font size.
+When I am reading through a story,
+Then I should be able to see a side menu with font-size options (Small, Medium, Large)
+When I choose one of the font-size options
+Then the font-size should adjust accordingly.
 
-Communication
-As a 7-12 year old child, I want to communiate with other users via bluetooth, so that both devices display and we can read together\
-As a 7-12 year old child, I want to communiate with other users via video conferencing, so that we can read together regardless of distance.\
-As a 7-12 year old child, I want to communiate with other users via audio, so that we can read together regardless of distance and at low data cost\
-As a 7-12 year old child, I want to communiate with other users via message, so that we can do basic interactions at low data cost.\
+Acceptance criteria (2):
+Given that I want to be able to adjust the font size to make it easier to read.
+When I adjust the font-size
+Then the display of the pictures, text, wrapping, and size menu should not be affected.
+
+Acceptance test:
+Prepare 2 sample book with text and pictures for testing.
+Read one of the books.
+Check that the pictures and text are displayed appropriately according to acceptance criteria.
+Read the other book.
+Check for the same.
+
+(32) As a reader, I want to be able to connect with a remote user, so that I know if I have access to someone with whom I can read
+Acceptance criteria (1):
+Given that I want to be able to connect with a remote user
+When I click on the 'read together' button on the main menu.
+Then I have switched on the read together mode.
+And the system will check for other online users whom have also switched on the mode.
+And match me together with one of them.
+
+Acceptance criteria (2):
+Given that user have entered the 'read together' mode.
+While matching is taking place, I should see a hourglass sign at the side.
+And I can continue to read by myself.
+When the matched is successful.
+Then I should recieved a success notifcation informing me of the user whom I'm matched to.
+
+Acceptance criteria (3):
+Given that I have been matched to another user successfully.
+Then I can see a 'read together' status on the top of the window.
+And I can see a status showing what the other user is doing (example which book and page he or she is reading).
+
+Acceptance criteria (4):
+Given that I have been matched to another user successfully.
+Then I can see a 'read together' status on the top of the window.
+And I can see a status showing what the other user is doing (example which book and page he or she is reading).
+
+(33) As a reader, I want to read with a connected reader using audio, so that we can read together
