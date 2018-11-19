@@ -112,3 +112,11 @@ Let the users speak briefly to each other
 Let each user open a sample book on their individual.
 Let the 2 users read the content together.
 Check on the loudness, clarity, and if there are any communication delays.
+
+Social Media trends:
+https://sproutsocial.com/insights/social-media-trends/
+Current trends: Higher engagement rates between brands and customers
+https://blog.bufferapp.com/social-media-trends-2018
+There are now almost 2.5 billion social media users, this is one of the best way to reach to your customers.
+Social messaging overtook social media
+Chatbot becoming the norm
