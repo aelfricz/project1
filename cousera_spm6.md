@@ -120,3 +120,17 @@ https://blog.bufferapp.com/social-media-trends-2018
 There are now almost 2.5 billion social media users, this is one of the best way to reach to your customers.
 Social messaging overtook social media
 Chatbot becoming the norm
+
+accounts/ loggin in
+password -
+browse previously read -
+favourite list
+to read list
+definition+
+sort -
+friend list -
+connect with friend -
+comprehension+
+suggest based on comprehension+
+track improvement+
+match user on reading level+
