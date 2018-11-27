@@ -134,3 +134,17 @@ comprehension+
 suggest based on comprehension+
 track improvement+
 match user on reading level+
+
+Implementing innovation:
+- Understanding the strategy differnce in Startup vs Mature company
+- Disruptive innovation VS sustaining innovation
+- Differnt stage of product lifecycle
+Customers
+- Differnt stage of adoption
+- A/B testing
+- Cost of acquiring new customer
+Organisation
+- Idea management
+- Project management
+- Portfolio management
+
