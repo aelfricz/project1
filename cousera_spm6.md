@@ -135,11 +135,26 @@ suggest based on comprehension+
 track improvement+
 match user on reading level+
 
+Recent
+Mobile apps
+- pre-requisite (advancement in mobile phone hardware, open app OS, app ecosystem)
+- different ways of app monetarization (freemium, micro purchases, data)
+
+Current
+Cloud computing
+with the services, u dont need laptop, desktop, servers.
+save files in google drive and access everywhere
+cloud servers are hosted in big data centres
+Pros - convenient, safe from hardware damages
+Cons - security risk, piracy, internet access
+
+
 Implementing innovation:
 - Understanding the strategy differnce in Startup vs Mature company
 - Disruptive innovation VS sustaining innovation
 - Differnt stage of product lifecycle
 Customers
+- Types of needs: basic needs, performance needs, excitement needs
 - Differnt stage of adoption
 - A/B testing
 - Cost of acquiring new customer
