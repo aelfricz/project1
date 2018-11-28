@@ -136,20 +136,20 @@ track improvement+
 match user on reading level+
 
 Recent
-Mobile apps
+Mobile apps (1)
 - pre-requisite (advancement in mobile phone hardware, open app OS, app ecosystem)
 - different ways of app monetarization (freemium, micro purchases, data)
 
 Current
-Cloud computing
-with the services, u dont need laptop, desktop, servers.
-save files in google drive and access everywhere
-cloud servers are hosted in big data centres
-Pros - convenient, safe from hardware damages
-Cons - security risk, piracy, internet access
+Cloud computing (2)
+the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer. with the services, u dont need laptop, desktop, servers. save files in google drive and access everywhere
+Prerequisite: high-capacity networks, low-cost computers and storage devices.
+Types of models: IaaS, PaaSm SaaS
+Pros - convenient, safe from hardware damages, elasticity, scalability, reliability, security (Amazon has more secruity experts)
+Cons - piracy(think walmart), internet access
+Main players - Amazon, Microsoft, Google, Alibaba
 
-
-Implementing innovation:
+Implementing innovation (3)s
 - Understanding the strategy differnce in Startup vs Mature company
 - Disruptive innovation VS sustaining innovation
 - Differnt stage of product lifecycle
@@ -162,4 +162,9 @@ Organisation
 - Idea management
 - Project management
 - Portfolio management
+
+Understanding the strategy differnce in Startup vs Mature company (4)
+- in Start-up it is almost exclusively launching new product/ervices. 
+- mature company - can be launching of new product/services or improving existing processes/ services (change mangement)
+
 
