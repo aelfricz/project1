@@ -136,9 +136,14 @@ track improvement+
 match user on reading level+
 
 Recent
-Mobile apps (1)
+Software is eating the word (1)
+software programming tools and Internet-based services make it easy to launch new global software-powered start-ups in many industries.
+Amazon displacing Borders
+Netflix displacing Blockbusters
+Mobile apps
 - pre-requisite (advancement in mobile phone hardware, open app OS, app ecosystem)
 - different ways of app monetarization (freemium, micro purchases, data)
+https://uptakedigital.zendesk.com/hc/en-us/articles/115001167933-Why-Software-Is-Eating-the-World
 
 Current
 Cloud computing (2)
@@ -166,5 +171,8 @@ Organisation
 Understanding the strategy differnce in Startup vs Mature company (4)
 - in Start-up it is almost exclusively launching new product/ervices. 
 - mature company - can be launching of new product/services or improving existing processes/ services (change mangement)
+
+Intro
+in Aug 2018, the top 5 companies in the world by market cap are all tech companies
 
 
