@@ -175,4 +175,19 @@ Understanding the strategy differnce in Startup vs Mature company (4)
 Intro
 in Aug 2018, the top 5 companies in the world by market cap are all tech companies
 
+- Differnt stage of adoption (5)
+Imtroduced by Everett Rogers
+- Innovtors 
+- Early adopters
+- Early majority
+- Late majority
+- Laggers
 
+The chasm is a gap between early adopter and early majority, it indicates that there's a big difference between two adaptor categories. 
+The Early Adopters are concern about how good a technology is, on the oher hand, the Early Majority also finds it important what other people think of a certain innovation.
+
+When the innovation is at the stage of the early adopter, it needs to focus on developing the technology. Howeever, as you may remember, the mainstream market consists of the Early Majority and Late Majority categories. To reach this mainstream market, it is important to have marketing.
+
+Additionally, to grow the mainstream marketing, the innovation needs to be perceived as current standard. And the quality of customer support around the product needs to be high.
+
+In conclusion: How can it be that some people adopt a certain innovation while others do not? Well, people fall in different categories and have their own preferences concerning what they look for in innovations
