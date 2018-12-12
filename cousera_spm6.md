@@ -146,28 +146,6 @@ Mobile apps
 https://uptakedigital.zendesk.com/hc/en-us/articles/115001167933-Why-Software-Is-Eating-the-World
 
 Current
-Cloud computing (2)
-the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer. with the services, u dont need laptop, desktop, servers. save files in google drive and access everywhere
-Prerequisite: high-capacity networks, low-cost computers and storage devices.
-Types of models: IaaS, PaaSm SaaS
-Pros - convenient, safe from hardware damages, elasticity, scalability, reliability, security (Amazon has more secruity experts)
-Cons - piracy(think walmart), internet access
-Main players - Amazon, Microsoft, Google, Alibaba
-
-Implementing innovation (3)s
-- Understanding the strategy differnce in Startup vs Mature company
-- Disruptive innovation VS sustaining innovation
-- Differnt stage of product lifecycle
-Customers
-- Types of needs: basic needs, performance needs, excitement needs
-- Differnt stage of adoption
-- A/B testing
-- Cost of acquiring new customer
-Organisation
-- Idea management
-- Project management
-- Portfolio management
-
 Understanding the strategy differnce in Startup vs Mature company (4)
 - in Start-up it is almost exclusively launching new product/ervices. 
 - mature company - can be launching of new product/services or improving existing processes/ services (change mangement)
@@ -191,3 +169,21 @@ When the innovation is at the stage of the early adopter, it needs to focus on d
 Additionally, to grow the mainstream marketing, the innovation needs to be perceived as current standard. And the quality of customer support around the product needs to be high.
 
 In conclusion: How can it be that some people adopt a certain innovation while others do not? Well, people fall in different categories and have their own preferences concerning what they look for in innovations
+
+DigitalPayments
+What:
+A digital payment is a mode of payments that are carried out using digitally electronic gadgets such as smartphones, tablets and computers etc to purchase goods and services. 
+The digital payments are different from traditional payment methods such as physical cash, cheques, bank transfer, credit card
+
+How:
+Typically operate as a E-wallet, wallet provider open a coporate account with a bank. Allow it's customers to create sub-account in it's own server. Payments are means of ledger adjustments that takes place within the provider's server itself.
+
+Transactions can take place using near-field communication (NFC) chips / Scannring or QR code
+
+Why:
+The increasing adoption of smartphones & e-commerce applications and the changing consumer trend are propelling the market growth. However the chances of frauds in transactions are restraining the market.
+
+As oppose to the many methods of traditional payments... settlements can take place immediately as everything is managed by one-party.
+
+Who:
+WePay, Alipay, PayPal, ApplePay
