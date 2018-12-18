@@ -187,3 +187,10 @@ As oppose to the many methods of traditional payments... settlements can take pl
 
 Who:
 WePay, Alipay, PayPal, ApplePay
+
+ML
+chatbots
+picture recognition
+sound recognition
+suggestions
+
