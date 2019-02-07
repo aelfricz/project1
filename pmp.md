@@ -1,23 +1,26 @@
 In the space below, provide a high-level description that summarizes your experience on this project and includes:
 1)
-• The project objective:
-Migration clients from paper payments to digital payments using the bank's online portal.
-• The project outcome:
-Successfully migrated all clients
-• Your role on the project:
+SI Migration
+Iniatiation	Planning	Execution	Controlling	Closing
+
+Objective:
+Migrate corporate clients from paper payment instructions to electronic.
+Outcome:
+Successfully migrated all 200+ corporate clients
+Role:
 Project Manager
 
-• Your responsibilities and deliverables for each of the domains for which you are submitting experience hours
-Initiation - 
-Planning - Creating a comprehensive project plan, allocating of clients among the teams, preparation of client analysis.
-Executing - Coordinate with teams to reach out to clients, set-up accounts, conduct training, and signing of documents.
-Controlling - Monitoring that client have no issues submitting payment instructions using the new platform.
-Closing - Ensure that all existing standing instructions have been migrated. 
+Responsibilities:
+Planning - Plan how to communicate with the clients. Discussed with Relationship Managers.
+Executing - Reaching out to clients, setting up accounts, gathering paperwork, and conducting training.
+Controlling - Monitoring the progress of project and responding to clients issues.
+Closing - Closure of project and handover to BAU Service team. 
 
+2)
 • The project objective:
-Closure of a live productin all aspect - customers, finanncials, systems, teams, compliance, risk
+Closure of a Citibank's Prepaid
 • The project outcome:
-Successful product closure with regards to all product issues.
+Successful customer communication, refund, accouting work
 • Your role on the project:
 Project Manager
 • Your responsibilities and deliverables for each of the domains for which you are submitting experience hours
