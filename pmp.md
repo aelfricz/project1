@@ -1,12 +1,12 @@
 In the space below, provide a high-level description that summarizes your experience on this project and includes:
 1)
-SI Migration
+GIRO SI Migration
 Iniatiation	Planning	Execution	Controlling	Closing
 
 Objective:
 Migrate corporate clients from paper payment instructions to electronic.
 Outcome:
-Successfully migrated all 200+ corporate clients
+Successfully migrated all 200= corporate clients
 Role:
 Project Manager
 
@@ -27,7 +27,7 @@ Customer communicated and refunded, recognition of balances and P/L, system term
 Role:
 Project Manager
 
-• Your responsibilities and deliverables for each of the domains for which you are submitting experience hours
+Responsibilities:
 Initiation
 Planning - 
 Executing - coordinating with services resources for customer communications. Coordinating with Operations resources for reporting and system tasks.
@@ -35,4 +35,37 @@ Controlling - measure performance in terms of number of customers refunded.
 Closing - obtain closure appproval from stakeholders, recogniton of P&L earned from the product.
 
 3)
+Data seggregation
+Iniatiation	Planning	Execution	Controlling	Closing
 
+Objective:
+Seggregate user access in the system according to 'need to know basis'.
+Outcome:
+2000+ global internal users seggregated into different access rights for 2 internal applications
+Role:
+Project Manager
+
+Responsibilities:
+Initiation - document business case and obtaining stakeholder support
+Planning - 
+Executing - coordinating with services resources for customer communications. Coordinating with Operations resources for reporting and system tasks.
+Controlling - measure performance in terms of number of customers refunded.
+Closing - obtain closure appproval from stakeholders, recogniton of P&L earned from the product.
+
+4)
+MIFT digitalization
+Iniatiation	Planning	Execution	Controlling	Closing
+
+Objective:
+Migrate corporate clients from paper FT instructions to electronic.
+Outcome:
+20% decrease in MIFT
+Role:
+Project Coordinator
+
+Responsibilities:
+Initiation - 
+Planning - 
+Executing - updates and re-baselining the project management plan
+Controlling - tracking project performance in terms of number of decrease in number of MIFT.
+Closing - 
