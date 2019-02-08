@@ -17,16 +17,22 @@ Controlling - Monitoring the progress of project and responding to clients issue
 Closing - Closure of project and handover to BAU Service team. 
 
 2)
-• The project objective:
-Closure of a Citibank's Prepaid
-• The project outcome:
-Successful customer communication, refund, accouting work
-• Your role on the project:
+Prepaid Closure
+Iniatiation	Planning	Execution	Controlling	Closing
+
+Objective:
+Strategy global direction to close off Prepaid products 
+Outcome:
+Customer communicated and refunded, recognition of balances and P/L, system termination, sign off with legal, compliances.
+Role:
 Project Manager
+
 • Your responsibilities and deliverables for each of the domains for which you are submitting experience hours
 Initiation
 Planning - 
-Executing - 
-Controlling - 
-Closing - 
+Executing - coordinating with services resources for customer communications. Coordinating with Operations resources for reporting and system tasks.
+Controlling - measure performance in terms of number of customers refunded.
+Closing - obtain closure appproval from stakeholders, recogniton of P&L earned from the product.
+
+3)
 
